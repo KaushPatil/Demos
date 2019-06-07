@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BluetoothDemo</string>
+    <string name="bluetooth_connected">Bluetooth  Connected</string>
+    <string name="bluetooth_disconnected">Bluetooth Disconnected</string>
+    <string name="bluetooth_fail_connected">Bluetooth Fail To Connect</string>
+    <string name="scanning_text">Scaning...</string>
+</resources>
